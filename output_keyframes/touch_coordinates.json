@@ -1,0 +1,282 @@
+{
+    "keyframe_000_base.jpg": {
+        "absolute_x": 204,
+        "absolute_y": 818,
+        "normalized_x": 0.1672,
+        "normalized_y": 0.3016,
+        "radius": 35
+    },
+    "keyframe_001_change.jpg": {
+        "absolute_x": 720,
+        "absolute_y": 2382,
+        "normalized_x": 0.5902,
+        "normalized_y": 0.8783,
+        "radius": 29
+    },
+    "keyframe_002_change.jpg": {
+        "absolute_x": 612,
+        "absolute_y": 928,
+        "normalized_x": 0.5016,
+        "normalized_y": 0.3422,
+        "radius": 26
+    },
+    "keyframe_003_change.jpg": {
+        "absolute_x": 122,
+        "absolute_y": 220,
+        "normalized_x": 0.1,
+        "normalized_y": 0.0811,
+        "radius": 34
+    },
+    "keyframe_004_change.jpg": {
+        "absolute_x": 122,
+        "absolute_y": 220,
+        "normalized_x": 0.1,
+        "normalized_y": 0.0811,
+        "radius": 34
+    },
+    "keyframe_005_change.jpg": {
+        "absolute_x": 122,
+        "absolute_y": 220,
+        "normalized_x": 0.1,
+        "normalized_y": 0.0811,
+        "radius": 34
+    },
+    "keyframe_006_change.jpg": {
+        "absolute_x": 194,
+        "absolute_y": 754,
+        "normalized_x": 0.159,
+        "normalized_y": 0.278,
+        "radius": 29
+    },
+    "keyframe_007_change.jpg": {
+        "absolute_x": 440,
+        "absolute_y": 1466,
+        "normalized_x": 0.3607,
+        "normalized_y": 0.5406,
+        "radius": 32
+    },
+    "keyframe_008_change.jpg": {
+        "absolute_x": 440,
+        "absolute_y": 1466,
+        "normalized_x": 0.3607,
+        "normalized_y": 0.5406,
+        "radius": 32
+    },
+    "keyframe_009_change.jpg": {
+        "absolute_x": 212,
+        "absolute_y": 58,
+        "normalized_x": 0.1738,
+        "normalized_y": 0.0214,
+        "radius": 20
+    },
+    "keyframe_010_change.jpg": {
+        "absolute_x": 476,
+        "absolute_y": 2048,
+        "normalized_x": 0.3902,
+        "normalized_y": 0.7552,
+        "radius": 22
+    },
+    "keyframe_011_change.jpg": {
+        "absolute_x": 212,
+        "absolute_y": 58,
+        "normalized_x": 0.1738,
+        "normalized_y": 0.0214,
+        "radius": 20
+    },
+    "keyframe_012_change.jpg": {
+        "absolute_x": 1144,
+        "absolute_y": 220,
+        "normalized_x": 0.9377,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_013_change.jpg": {
+        "absolute_x": 278,
+        "absolute_y": 990,
+        "normalized_x": 0.2279,
+        "normalized_y": 0.365,
+        "radius": 29
+    },
+    "keyframe_014_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 220,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_015_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 220,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_016_change.jpg": {
+        "absolute_x": 212,
+        "absolute_y": 58,
+        "normalized_x": 0.1738,
+        "normalized_y": 0.0214,
+        "radius": 20
+    },
+    "keyframe_017_change.jpg": {
+        "absolute_x": 212,
+        "absolute_y": 58,
+        "normalized_x": 0.1738,
+        "normalized_y": 0.0214,
+        "radius": 20
+    },
+    "keyframe_018_change.jpg": {
+        "absolute_x": 1150,
+        "absolute_y": 220,
+        "normalized_x": 0.9426,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_019_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 220,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_020_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 220,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_021_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 220,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_022_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 220,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_023_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 220,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_024_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 220,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_025_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 220,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_026_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 220,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_027_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 220,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_028_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 220,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_029_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 220,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.0811,
+        "radius": 36
+    },
+    "keyframe_030_change.jpg": {
+        "absolute_x": 518,
+        "absolute_y": 476,
+        "normalized_x": 0.4246,
+        "normalized_y": 0.1755,
+        "radius": 25
+    },
+    "keyframe_031_change.jpg": {
+        "absolute_x": 208,
+        "absolute_y": 58,
+        "normalized_x": 0.1705,
+        "normalized_y": 0.0214,
+        "radius": 20
+    },
+    "keyframe_032_change.jpg": {
+        "absolute_x": 208,
+        "absolute_y": 58,
+        "normalized_x": 0.1705,
+        "normalized_y": 0.0214,
+        "radius": 20
+    },
+    "keyframe_033_change.jpg": {
+        "absolute_x": 208,
+        "absolute_y": 58,
+        "normalized_x": 0.1705,
+        "normalized_y": 0.0214,
+        "radius": 20
+    },
+    "keyframe_034_change.jpg": {
+        "absolute_x": 208,
+        "absolute_y": 58,
+        "normalized_x": 0.1705,
+        "normalized_y": 0.0214,
+        "radius": 20
+    },
+    "keyframe_035_change.jpg": {
+        "absolute_x": 208,
+        "absolute_y": 58,
+        "normalized_x": 0.1705,
+        "normalized_y": 0.0214,
+        "radius": 20
+    },
+    "keyframe_036_change.jpg": {
+        "absolute_x": 1018,
+        "absolute_y": 1442,
+        "normalized_x": 0.8344,
+        "normalized_y": 0.5317,
+        "radius": 30
+    },
+    "keyframe_037_change.jpg": {
+        "absolute_x": 208,
+        "absolute_y": 58,
+        "normalized_x": 0.1705,
+        "normalized_y": 0.0214,
+        "radius": 20
+    },
+    "keyframe_038_change.jpg": {
+        "absolute_x": 1142,
+        "absolute_y": 1244,
+        "normalized_x": 0.9361,
+        "normalized_y": 0.4587,
+        "radius": 29
+    },
+    "keyframe_039_change.jpg": {
+        "absolute_x": 1150,
+        "absolute_y": 1236,
+        "normalized_x": 0.9426,
+        "normalized_y": 0.4558,
+        "radius": 29
+    }
+}

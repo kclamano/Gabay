@@ -1,0 +1,186 @@
+[
+    {
+        "step_file": "keyframe_000_base.jpg",
+        "detected_action_zone": "Probably the top-left corner of a header section or the back button (since Y is between 0.05 and 0.20)",
+        "taglish_instruction": "Lola po, pindutin po natin yung mga options sa itaas para makapunta tayo sa susunod na bahagi ng tutorial!"
+    },
+    {
+        "step_file": "keyframe_001_change.jpg",
+        "detected_action_zone": "Button or Icon",
+        "taglish_instruction": "Lola po, pindutin po natin yung button sa baba. Kaya mo 'to, Lola!"
+    },
+    {
+        "step_file": "keyframe_002_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_002_change.jpg\",\n\"detected_action_zone\": \"Maybe Lola po is about to click the 'Next' button?\",\n\"taglish_instruction\": \"Lola po, pindutin po natin yung mga susunod na instructions. Magkakaroon ba tayo ng next step? Pakinggan lang natin kung sino ang susunod na instruction sa GCash app.\""
+    },
+    {
+        "step_file": "keyframe_003_change.jpg",
+        "detected_action_zone": "Lola po, ito ay possible na ang input field o primary navigation grid option, dahil sa coordinates X=0.1 at Y=0.0811.",
+        "taglish_instruction": "Lola po, pindutin po natin ang bagay sa parte ng screen na mayroon pang mga letra at hint of blue color. Ito ay possible na isang lugar kung saan kinakailangan mong i-enter ang impormasyon."
+    },
+    {
+        "step_file": "keyframe_004_change.jpg",
+        "detected_action_zone": "Probably the 'Send PHP' button, Lola po",
+        "taglish_instruction": "Pindutin po natin yung 'Send PHP' button para makapagpadala ng pera mo sa GCash, Lola!"
+    },
+    {
+        "step_file": "keyframe_005_change.jpg",
+        "detected_action_zone": "Lola po, it seems you're trying to pindutin po natin the 'Send PHP' button. That's correct! You're sending money to someone. Keep going, Lola!",
+        "taglish_instruction": "Pindutin po natin ang 'Next' para makapunta ka sa susunod na hakbang."
+    },
+    {
+        "step_file": "keyframe_006_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_006_change.jpg\",\n\"detected_action_zone\": \"Input field or primary navigation grid option, Lola po! You're so close to adding the amount.\",\n>taglish_instruction: \"Pindutin po natin yung lugar kung saan naglalagay mo ang bayad, Lola. Ingatan mo na lang ang amounts mo!\"\n}"
+    },
+    {
+        "step_file": "keyframe_007_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_007_change.jpg\",\n\"detected_action_zone\": \"Top-right corner action button (e.g., 'Back' or 'Menu')\",\n>taglish_instruction: \"Lola po, sa tingin mo pa, pindutin po natin yung mga buttons sa taas-dibaan. Anong gagawin natin dito?\""
+    },
+    {
+        "step_file": "keyframe_008_change.jpg",
+        "detected_action_zone": "Bottom Action Button",
+        "taglish_instruction": "Lola po, ang pindutin po natin ay ang 'Next' button. Tapos na po kaya tayo ng una? Papindutin po natin ang 'Next' para makagawa ng susunod na hakbang."
+    },
+    {
+        "step_file": "keyframe_009_change.jpg",
+        "detected_action_zone": "Top-right button (Back) or header area",
+        "taglish_instruction": "Lola po, pindutin po natin sa taas-right corner o ang header area. Ito ba ay back button o isang category tab?"
+    },
+    {
+        "step_file": "keyframe_010_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_010_change.jpg\",\n\"detected_action_zone\": \"Confirm or Send button ( possibly 'Send PHP' )\",\n>taglish_instruction: \"Lola po, pindutin po natin yung buton na magpapirmi ng pera mo o kaya ay iyon pong confirm. Tapos na tayo sa step na ito!\"\n}"
+    },
+    {
+        "step_file": "keyframe_011_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_011_change.jpg\",\n\"detected_action_zone\": \"Lola po, it seems you're trying to tap on the 'Send PHP' button. Don't worry if it's a bit tricky, pindutin po natin will help you with that!\",\n>taglish_instruction\">"
+    },
+    {
+        "step_file": "keyframe_012_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_012_change.jpg\",\n\"detected_action_zone\": \"Pindutin po natin yung button sa ibaba, Lola. It looks like you're about to confirm something!\",\n>taglish_instruction: \"Lola po, pindutin lang po natin 'yan. We're almost done!\""
+    },
+    {
+        "step_file": "keyframe_013_change.jpg",
+        "detected_action_zone": "Lola po, it looks like you're trying to tap the 'Amount' input field. Please make sure to enter the correct amount in PHP.",
+        "taglish_instruction": "Pindutin po natin yung bayad sa GCash, Lola! Kailangan mo pong i-enter ang tama na amount sa PHP."
+    },
+    {
+        "step_file": "keyframe_014_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_014_change.jpg\",\n\"detected_action_zone\": \"Lola po, it seems you're trying to tap the 'Confirm' button. Pindutin po natin yung blue button sa ilalim na nakalagay ang Confirm.\",\n\"taglish_instruction\": \"Just a little lower, Lola! Tapos na po tayo. Next step: [Insert next step guide]\""
+    },
+    {
+        "step_file": "keyframe_015_change.jpg",
+        "detected_action_zone": "Lower left corner button (e.g., 'Next' or 'Send PHP')",
+        "taglish_instruction": "Lola po, mayroon tayong mga option na nagbibigay ng mga resulta. Pindutin po natin ang next button para maisyaan ang proseso."
+    },
+    {
+        "step_file": "keyframe_016_change.jpg",
+        "detected_action_zone": "Probably the 'Send PHP' button since Y is around 0.0214 which falls below the threshold of 0.25 for primary navigation options",
+        "taglish_instruction": "Lola po, pindutin po natin ang 'Send PHP' para magpadala ng pera!"
+    },
+    {
+        "step_file": "keyframe_017_change.jpg",
+        "detected_action_zone": "Upper category tab possibly",
+        "taglish_instruction": "Lola po, tignan natin ang mga linya sa taas, pindutin po natin ang tab na gusto mo!"
+    },
+    {
+        "step_file": "keyframe_018_change.jpg",
+        "detected_action_zone": "Upper category tab, perhaps 'Transfers' or 'Send'?",
+        "taglish_instruction": "Lola po, ang liit-liit natin sa itaas ay possible na 'Transfers' o 'Send', pindutin po natin."
+    },
+    {
+        "step_file": "keyframe_019_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_019_change.jpg\",\n\"detected_action_zone\": \"Upper category tab possibly (since Y is around 0.0811, close to the top region)\",\n\"taglish_instruction\": \"Lola po, pindutin po natin yung upper category tab para makapunta sa susunod na bahagi ng tutorial.\""
+    },
+    {
+        "step_file": "keyframe_020_change.jpg",
+        "detected_action_zone": "Lola po, ito ay parang isang button! Pindutin po natin ang 'Send PHP' button.",
+        "taglish_instruction": "Oo, Lola po! Kung gusto mong patuloyin ang proseso, pindutin po natin ang 'Send PHP' button."
+    },
+    {
+        "step_file": "keyframe_021_change.jpg",
+        "detected_action_zone": "Confirm button (assuming it's a green-colored 'Send PHP' or similar)",
+        "taglish_instruction": "Lola po, pindutin po natin ang confirm button para makapag-send ng pera sa GCash. Tingnan mo ang mga options at pumili ng tamang amount para makapagsend ng tama."
+    },
+    {
+        "step_file": "keyframe_022_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_022_change.jpg\",\n\"detected_action_zone\": \"Perhaps Lola po is trying to confirm the transaction with the 'Send PHP' button?\",\n\"taglish_instruction\": \"Lola po, pindutin po natin yung confirm na buton para tuluyan ang transaction. Ang buton ay may kulay ng berde at located sa baba ng screen.\""
+    },
+    {
+        "step_file": "keyframe_023_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_023_change.jpg\",\n\"detected_action_zone\": \"Probably the 'Confirm' button pindutin po natin Lola, since Y is close to 0.09 which suggests a bottom action button.\",\n>taglish_instruction\\\": \\\"Lola po, pindutin po natin ang confirm button para matapos na yung proseso.\\\""
+    },
+    {
+        "step_file": "keyframe_024_change.jpg",
+        "detected_action_zone": "Lola po, pindutin po natin yung button na may color blue sa ilalim. Yun ay 'Next' button. Pindutin po natin yun para lumabas sa susunod na step.",
+        "taglish_instruction": ""
+    },
+    {
+        "step_file": "keyframe_025_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_025_change.jpg\",\n\"detected_action_zone\": \"A button near the bottom of the screen, possibly a 'Confirm' or 'Send PHP' button\",\n\"taglish_instruction\": \"Lola po, pindutin po natin ang buton dito sa baba ng screen. Ito ay posibleng ang 'Confirm' o 'Send PHP' button.\""
+    },
+    {
+        "step_file": "keyframe_026_change.jpg",
+        "raw_payload": "{\n  \"step_file\": \"keyframe_026_change.jpg\",\n  \"detected_action_zone\": \"Maybe Lola po tapped the transaction history list?\",\n  \"taglish_instruction\": \"Lola po, pindutin po natin yung listahan ng mga transaksyon. Maaasahan mo na ang mga detalye ng nakalipas na pang-gastos!\""
+    },
+    {
+        "step_file": "keyframe_027_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_027_change.jpg\",\n\"detected_action_zone\": \"Pindutin po natin yung 'Send PHP' button!\",\n>taglish_instruction: \"Oo nga, Lola po! We're sending money to someone. Just tap on that green 'Send PHP' button to confirm the transaction.\"\n}"
+    },
+    {
+        "step_file": "keyframe_028_change.jpg",
+        "detected_action_zone": "Header or Back button, possibly upper category tab",
+        "taglish_instruction": "Lola po, pindutin po natin yung mga opsiyon sa itaas para bumalik o makapagsimula ulit. O kaya, posible din na pangalan ng categoriya."
+    },
+    {
+        "step_file": "keyframe_029_change.jpg",
+        "detected_action_zone": "Lola po, it seems you've touched the 'Confirm' button. Is that correct?",
+        "taglish_instruction": "Pindutin po natin yung confirm button para maitatapos ang transaction, Lola. Magpapasaya ka ba sa sarili mo?"
+    },
+    {
+        "step_file": "keyframe_030_change.jpg",
+        "detected_action_zone": "Top-left corner of the screen (header or back button)",
+        "taglish_instruction": "Lola po, tingnan natin ang header o back button sa itaas na parte ng screen pindutin po natin."
+    },
+    {
+        "step_file": "keyframe_031_change.jpg",
+        "detected_action_zone": "Upper category tab",
+        "taglish_instruction": "Lola po, nagpunta ka na sa upper part ng screen. Pindutin po natin yung mga option para makapiling ang gagawin mo."
+    },
+    {
+        "step_file": "keyframe_032_change.jpg",
+        "detected_action_zone": "Pindaan po natin ang [Amount] (amount input field)",
+        "taglish_instruction": "Lola po, pindutin po natin ang amount para i-update ang bilang. Make sure to type the correct number!"
+    },
+    {
+        "step_file": "keyframe_033_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_033_change.jpg\",\n\"detected_action_zone\": \"Maybe Lola po is trying to select something from the options?\",\n\"taglish_instruction\": \"Lola po, pindutin po natin ang mga opsyon. Mayroon bang nagpapa-alam sa kanan o sa kaliwa?\""
+    },
+    {
+        "step_file": "keyframe_034_change.jpg",
+        "detected_action_zone": "Upper right category tab (possibly 'Menu' or 'Settings')",
+        "taglish_instruction": "Lola po, sa kanan pa ng screen, pindutin po natin ang menu o settings para makapiling ang mga opsyonal na pagpipiliin!"
+    },
+    {
+        "step_file": "keyframe_035_change.jpg",
+        "detected_action_zone": "Upper category tab or header",
+        "taglish_instruction": "Lola po, pindutin po natin yung upper category tab o header na mayroon tayo rito. Tapos na kaya tayo? Pindutin ulit para makapagsimula tayo ng susunod na bahagi."
+    },
+    {
+        "step_file": "keyframe_036_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_036_change.jpg\",\n\"detected_action_zone\": \"Probably the 'Send PHP' button, Lola po. The touch action was near the bottom (0.8344) and might be related to a confirmation or payment action.\",\n>taglish_instruction: \"Lola po, pindutin po natin yung buton na may kulay na ginto sa ilalim. Kung ikaw ay gumagawa ng isang transaction, ito ang posible nila'y ginagamit para pang-confirm o pang-send ng mga pera.\""
+    },
+    {
+        "step_file": "keyframe_037_change.jpg",
+        "detected_action_zone": "Lola po, pindutin po natin sa transaction details para i-update ang amount.",
+        "taglish_instruction": "Tapos na tayo! Pindutin po natin ang transaction details para makapag-iba ng amount. Tapos!"
+    },
+    {
+        "step_file": "keyframe_038_change.jpg",
+        "raw_payload": "{\n\"step_file\": \"keyframe_038_change.jpg\",\n\"detected_action_zone\": \"Lola po, it seems you're trying to click the 'Next' button. Pindutin po natin yung blue button na sabik ng susunod na kabanata!\",\n>taglish_instruction: \"Lola po, relax! You're doing great. Let's review. Wala pang problema sa iyo!\"\n}"
+    },
+    {
+        "step_file": "keyframe_039_change.jpg",
+        "detected_action_zone": "It seems Lola po is trying to click on the 'Next' button. Am I right, Lola?",
+        "taglish_instruction": "Pindutin po natin ang 'Next' para makapagpatuloy sa tutorial, Lola. Mabuti pa!"
+    }
+]
